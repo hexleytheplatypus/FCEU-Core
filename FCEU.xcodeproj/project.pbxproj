@@ -66,7 +66,6 @@
 		87709EE1294D2AFD0084AEE0 /* fns.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87709EE0294D2AFD0084AEE0 /* fns.cpp */; };
 		87709EE3294D2B0D0084AEE0 /* lcdcompzapper.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87709EE2294D2B0D0084AEE0 /* lcdcompzapper.cpp */; };
 		8D5B49B0048680CD000E48DA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C167DFE841241C02AAC07 /* InfoPlist.strings */; };
-		8D5B49B4048680CD000E48DA /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7ADFEA557BF11CA2CBB /* Cocoa.framework */; };
 		8F28FD5029FD3E7D008FC4A9 /* 354.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8F28FD4D29FD3E7D008FC4A9 /* 354.cpp */; };
 		8F28FD5129FD3E7D008FC4A9 /* coolgirl.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8F28FD4E29FD3E7D008FC4A9 /* coolgirl.cpp */; };
 		8F28FD5229FD3E7D008FC4A9 /* inx007t.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8F28FD4F29FD3E7D008FC4A9 /* inx007t.cpp */; };
@@ -684,7 +683,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8D5B49B4048680CD000E48DA /* Cocoa.framework in Frameworks */,
 				82EC409F0FD9EC420017FC19 /* libz.dylib in Frameworks */,
 				C62301A61712264100576081 /* OpenEmuBase.framework in Frameworks */,
 			);
